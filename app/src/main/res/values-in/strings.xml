@@ -2,7 +2,7 @@
     <string name="app_name">ProfilMukhlis</string>
     <string name="mukhlissholihin423_gmail_com">mukhlissholihin423@gmail.com</string>
     <string name="_6282248175397">+6282248175397</string>
-    <string name="add_to_group">Add to group</string>
-    <string name="obrolan_baru">new chat</string>
-    <string name="change_language">change language</string>
+    <string name="add_to_group">Tambahkan Ke Grup</string>
+    <string name="obrolan_baru">Obrolan Baru</string>
+    <string name="change_language">ganti bahasa</string>
 </resources>
